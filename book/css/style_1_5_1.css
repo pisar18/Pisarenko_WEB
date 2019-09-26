@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+}
+html{
+    background-color: lightgray;
+}
+.book1_h{
+    display: block;
+    width: 100%;
+    height: 330px;
+}
+.zag_h{
+    text-align: right;
+    position: relative;
+    right: 10px;
+    font-family: Cambria;
+}
+#h{
+    text-decoration: underline;
+}
+#name{
+    font-style: italic;
+}
+.ali_img1{
+    display: block;
+    float: left;
+    width: 175px;
+    height: 250px;
+    margin-right: 37px;
+    position: relative;
+    left: 20px;
+    box-shadow: 5px 10px 15px black;
+}
+.op_bok{
+    list-style-type: none;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 20px;
+    font-family: "Comic Sans MS";
+}
+.op1{
+    font-style: italic;
+    font-weight: normal;
+}
+a{
+    text-decoration: none;
+    color: forestgreen;
+}
+#hr_b{
+    border: 0;
+    height: 0;
+    box-shadow: 0 0 10px 7px grey;
+}
+.book1_m{
+    display: block;
+    width: 100%;
+    height: 790px;
+}
+.zag_m{
+    font-size: 16px;
+    text-align: center;
+    font-family: Cambria;
+}
+.op_bok1{
+    margin: 10px;
+    text-indent: 20px;
+    text-align: justify;
+    font-size: 17px;
+    font-family: "Comic Sans MS";
+}
+.avt_img{
+    display: block;
+    width: 185px;
+    height: 270px;
+    margin: 0 auto;
+    padding-top: 10px;
+}
+.pr_avt{
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+    font-family: "Comic Sans MS";
+    text-align: center;
+}
+.book_f{
+    display: block;
+    width: 100%;
+    height: 4500px;
+}
+.zm{
+    font-size: 16px;
+    text-align: center;
+    font-family: Cambria;
+    margin-top: 10px;
+}
+.zmist{
+    display: block;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: "Comic Sans MS";
+    margin-top: 10px;
+}
+.roz{
+    display: block;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: "Comic Sans MS";
+    margin-top: 10px;
+}
+#zir{
+    display: block;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 10px;
+}
+#pre_1{
+    padding-top: 10px;
+    position: relative;
+    right: -600px;
+    font-style: italic;
+    text-indent: 0;
+}
+#list{
+    position: relative;
+    right: -130px;
+    font-size: 13px;
+    font-weight: bold;
+    font-style: normal;
+}
+#pre_2{
+    list-style-type: none;
+    position: relative;
+    right: -600px;
+    font-weight: bold;
+    font-style: italic;
+}
+.sp1{
+    font-weight: normal;
+    position: relative;
+    right: -20px;
+}
